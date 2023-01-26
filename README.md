@@ -6,7 +6,8 @@ A platformer game where the objective is to dodge spikes and collect magical che
 a/LeftNum = Left<br>
 d/RightNum = Right<br>
 s/Down = Crouch<br>
-LShift = Glide</p>
+LShift = Glide<br>
+r = Reset</p>
 
 <h2>Gameplay</h2>
 <img src="https://codehs.com/uploads/c41202d5cfc25da73ce852b0b2c999ca" alt="Duck Duck Gameplay Image">
