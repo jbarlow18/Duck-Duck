@@ -14,5 +14,5 @@ LShift = Glide</p>
 <h2>Play Online</h2>
 <a href="https://liluo.io/instant-builds/9b546f74-997f-41c8-acf0-b260bf2f5eda">Duck Duck Online</a>
 
-<h2>Play Online</h2>
-<a href="">Duck Duck Online</a>
+<h2>Download</h2>
+<a href="https://drive.google.com/file/d/1mZhWjR4yd5-pHE26tCrVmVf2Xf0MklPN/view?usp=share_link">Google Drive Download Link</a>
